@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Just checked, the link is working fine now!
+
+
+Update: url is now working correctly
